@@ -1,8 +1,8 @@
-# Vufuzi Theme for Hugo
+# Glaskogen IT-theme for Hugo
 
 cd into your hugo directory and add the theme by running the following
 command.
 
-`git submodule add https://github.com/Vufuzi/hugo-vufuzi-theme.git themes/vufuzi`
+`git submodule add https://github.com/glaskogen/hugo-theme.git themes/glaskogen`
 
-then set the theme to `vufuzi` in your hugo config file.
+then set the theme to `glaskogen` in your hugo config file.
