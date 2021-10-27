@@ -1,4 +1,4 @@
-# Glaskogen IT-theme for Hugo
+# Glatek-theme for Hugo
 
 cd into your hugo directory and add the theme by running the following
 command.
